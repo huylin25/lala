@@ -34,7 +34,7 @@ Read Me (2)
 
    - c:			;to change directory to c drive
 
-   - edit 1.asm		;to construct / edit the source file
+   - edit 1.asm		;to construct / edit the source filefff
 
    - masm 1.asm		;to assembler the source file (.asm)
 			; to convert .asm to .obj & optionally .lst & .crf file
